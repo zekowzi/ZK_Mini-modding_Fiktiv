@@ -19,7 +19,7 @@
 - **DLC** - Citybus O530 Facelift (Kajott) - https://store.steampowered.com/app/3837800/OMSI_2_Addon_Citybus_O530_Facelift/
 - Repaintpack par Lakerina Sebixa (pour les Urbino IV) - https://reboot.omsi-webdisk.de/file/13700-solaris-urbino-iv-szczecin-repaint-pack/
 - Repaintpack par Lakerina Sebixa (pour les O530 et O530 FL) - https://reboot.omsi-webdisk.de/file/14762-citybus-o530-o530fl-o628-szczecin-repaint-pack/
-- 
+**__NB__: Il est possible de faire fonctionner les bus sans les livrées requises: ils seront juste blancs mais seront sur la map.**
 
 ## Crédits:
 - Sobol - Monnaie: Zlotys Moderne
