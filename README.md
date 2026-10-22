@@ -2,8 +2,10 @@
 
 **Mod initialement sorti durant l'ère iwxbe, ce mini-modding pour Fiktiv Szczecin a été revu dans sa forme et son travail. Ceci n'est qu'une **BETA** par ailleurs. Plusieurs choses de la première version ne sont plus disponibles pour le moment, notemment:**
 - Le ticketpack fait sur mesure: ayant perdu l'image qui allait avec, seulement **la définition et les prix** des tickets fonctionne. L'image du ticket, est pour le moment l'image issue de Grundorf.
-- Les passagers AI alternatifs: initialement issus de la map **GP22**, j'ai fait le choix de les retirer et de basculer sur ceux proposés par **GameAry** (qui seront eux, inclus dans une prochaine MaJ !)
 - L'AI-LIST demande des bus payants, une ailist alternative **EXISTE**, basée sur l'ailist originale qui ne comportait uniquement des Man NL-NG d'origine du jeu.
+
+## Bugs connus:
+- Certains bus AI ne s'affichent pas correctement: ils sont blancs (sans-livrée): cela arrive lorsque les livrées ne sont pas téléchargées. Aucune influence en jeu notable, puisque les bus circulent tout de même.
 
 ## Fonctions cependant disponibles actuellement:
 - Nouvelle AI List, comportant des voitures "plus modernes", mais aussi des Solaris Urbino IV 10, 12 (CNG) et 18 (CNG), des O530 et O530 Facelift, des Urbino III, des Man A21...
@@ -11,6 +13,7 @@
 - Nouvelle monnaie: Zlotys Modernes (sur la version originale, c'était les anciens Zlotys)
 - Nouveaux tickets calqués sur les tarifs et titres disponibles sur le réseau ZDiTM
 - Nouveau parklist: voitures de l'AI-List incluses
+- Nouveaux passagers: mod "People" issu de GameAry
 
 ## **⚠️ ATTENTION, ce mini-mod requiert des mods, parfois payants:**
 - Urbino IV par Iwo - https://www.patreon.com/akitakots
@@ -28,6 +31,7 @@
 - Sobol - Bus AI: Solaris Urbino III / Man LC A21
 - Kajott - Bus AI: O530 et O530 Facelift
 - Iwo - Bus AI: Solaris Urbino IV
+- GameAry - Humains AI: Mod Freeware
 - Ano38 - Aide et conseils pour l'AI-List
 - Lakerina Sebixa - Repaints
 - Agarok (et son équipe) - Voix polonaises
