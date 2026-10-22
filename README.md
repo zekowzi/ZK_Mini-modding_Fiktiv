@@ -10,6 +10,7 @@
 - Voix polonaises (les mêmes que la version originale)
 - Nouvelle monnaie: Zlotys Modernes (sur la version originale, c'était les anciens Zlotys)
 - Nouveaux tickets calqués sur les tarifs et titres disponibles sur le réseau ZDiTM
+- Nouveau parklist: voitures de l'AI-List incluses
 
 ## **⚠️ ATTENTION, ce mini-mod requiert des mods, parfois payants:**
 - Urbino IV par Iwo - https://www.patreon.com/akitakots
