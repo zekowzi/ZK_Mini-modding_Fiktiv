@@ -1,4 +1,5 @@
 # Mini-Mod_Fiktiv
+**CE MOD EST COMPATIBLE A OPENOMSI**
 
 **Mod initialement sorti durant l'ère iwxbe, ce mini-modding pour Fiktiv Szczecin a été revu dans sa forme et son travail. Ceci n'est qu'une **BETA** par ailleurs. Plusieurs choses de la première version ne sont plus disponibles pour le moment, notemment:**
 - Le ticketpack fait sur mesure: ayant perdu l'image qui allait avec, seulement **la définition et les prix** des tickets fonctionne. L'image du ticket, est pour le moment l'image issue de Grundorf.
