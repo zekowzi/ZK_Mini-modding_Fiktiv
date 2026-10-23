@@ -8,6 +8,7 @@
 ## Bugs connus:
 - Certains bus AI ne s'affichent pas correctement: ils sont blancs (sans-livrée): cela arrive lorsque les livrées ne sont pas téléchargées. Aucune influence en jeu notable, puisque les bus circulent tout de même.
 - Certaines vacances scolaires ne se mettent pas entièrement en place.
+- Le Ticketpack contient les images des tickets Grundorf: les images sur mesure arriveront prochainement.
 
 ## Fonctions cependant disponibles actuellement:
 - Nouvelle AI List, comportant des voitures "plus modernes", mais aussi des Solaris Urbino IV 10, 12 (CNG) et 18 (CNG), des O530 et O530 Facelift, des Urbino III, des Man A21...
