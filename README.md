@@ -40,4 +40,5 @@
 - Lakerina Sebixa - Repaints
 - Agarok (et son équipe) - Voix polonaises
 
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
 ***Mod proposé par ZeKowzi (iwxbe), tous droits reservés, 2026***
